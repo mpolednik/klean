@@ -1,6 +1,6 @@
 " Vim color scheme
 "
-" Name:         kleen.vim
+" Name:         klean.vim
 " Author:       Martin Polednik <mpolednik@redhat.com>
 " Repo:         http://github.com/mpolednik/kleen
 " Last Change:  9 July 2014
@@ -15,7 +15,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let g:colors_name = "kleen"
+let g:colors_name = "klean"
 
 hi link htmlTag                     xmlTag
 hi link htmlTagName                 xmlTagName
