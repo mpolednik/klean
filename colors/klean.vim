@@ -46,7 +46,7 @@ highlight Error                     ctermfg=221 ctermbg=88
 highlight Function                  ctermfg=226
 highlight Identifier                ctermfg=222
 highlight LineNr                    ctermfg=159 
-highlight Number                    ctermfg=207 cterm=bold
+highlight Number                    ctermfg=74
 highlight PreProc                   ctermfg=69
 highlight Statement                 ctermfg=208 gui=NONE
 highlight Title                     ctermfg=15
@@ -56,10 +56,10 @@ highlight Include                   ctermfg=87 gui=NONE cterm=NONE
 highlight PreCondit                 ctermfg=111 cterm=NONE
 highlight Define                    ctermfg=173
 
-highlight Exception                 ctermfg=11 cterm=bold,underline
-highlight Operator                  ctermfg=11 cterm=bold
+highlight Exception                 ctermfg=11
+highlight Operator                  ctermfg=11
 
-highlight Structure                 ctermfg=160 cterm=bold
+highlight Structure                 ctermfg=160
 
 highlight DiffAdd                   ctermfg=7 ctermbg=71
 highlight DiffDelete                ctermfg=7 ctermbg=52
