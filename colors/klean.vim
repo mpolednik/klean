@@ -79,3 +79,7 @@ highlight Keyword                   ctermfg=214 cterm=NONE
 highlight Conditional               ctermfg=208 cterm=NONE
 
 highlight goFunctionCall            ctermfg=191
+
+highlight DiffDelete                ctermbg=52
+highlight DiffAdd                   ctermbg=22
+highlight DiffChange                ctermbg=17
